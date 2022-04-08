@@ -1,0 +1,58 @@
+[
+    {
+      "_id": "624eb0d387ad652b3f9ab09b",
+      "index": 0,
+      "price": "$3,198.69",
+      "picture": "https://cdn.shopify.com/s/files/1/0070/7032/files/tshirt-business8-min_838a2996-f195-4c1d-a4d1-034bc0a9a095.jpg?v=1597402071",
+      "name": "Huff Morse",
+      "gender": "male"
+    },
+    {
+      "_id": "624eb0d399d92d0085c9e04e",
+      "index": 1,
+      "price": "$1,451.44",
+      "picture": "https://media.istockphoto.com/photos/blank-black-tshirt-front-with-clipping-path-picture-id483960103?b=1&k=20&m=483960103&s=170667a&w=0&h=hNKNseCmaThTsh4i7Q3kHETlWo5Zi7Ogw-luVozfP_M=",
+      "name": "Rachel Parker",
+      "gender": "female"
+    },
+    {
+      "_id": "624eb0d39a22a95cdc50b55b",
+      "index": 2,
+      "price": "$1,143.20",
+      "picture": "https://cdn.shopify.com/s/files/1/0070/7032/files/tshirt-business8-min_838a2996-f195-4c1d-a4d1-034bc0a9a095.jpg?v=1597402071",
+      "name": "Robbins Cameron",
+      "gender": "male"
+    },
+    {
+      "_id": "624eb0d32440bb7e53295528",
+      "index": 3,
+      "price": "$1,078.69",
+      "picture": "https://media.istockphoto.com/photos/blank-black-tshirt-front-with-clipping-path-picture-id483960103?b=1&k=20&m=483960103&s=170667a&w=0&h=hNKNseCmaThTsh4i7Q3kHETlWo5Zi7Ogw-luVozfP_M=",
+      "name": "Allen Glenn",
+      "gender": "male"
+    },
+    {
+      "_id": "624eb0d386c419afed5b35d6",
+      "index": 4,
+      "price": "$1,625.08",
+      "picture": "https://5.imimg.com/data5/YX/OO/TA/ANDROID-108727015/product-jpeg-500x500.jpg",
+      "name": "Lester Blair",
+      "gender": "male"
+    },
+    {
+      "_id": "624eb0d3e0559290d42f6fb7",
+      "index": 5,
+      "price": "$3,072.53",
+      "picture": "https://cdn.shopify.com/s/files/1/0070/7032/files/tshirt-business8-min_838a2996-f195-4c1d-a4d1-034bc0a9a095.jpg?v=1597402071",
+      "name": "Adrian Stevens",
+      "gender": "female"
+    },
+    {
+      "_id": "624eb0d3ae3ac09b959acfb1",
+      "index": 6,
+      "price": "$3,618.85",
+      "picture": "https://5.imimg.com/data5/YX/OO/TA/ANDROID-108727015/product-jpeg-500x500.jpg",
+      "name": "Dejesus Page",
+      "gender": "male"
+    }
+  ]
